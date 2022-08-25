@@ -1,0 +1,18 @@
+{
+    "name": "successor/custom-route",
+    "description": "Simple Custom PHP Routing",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "successoronyemaechi",
+            "email": "successoronyemaechi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
